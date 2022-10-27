@@ -12,3 +12,6 @@ p {
 table, th, td {
     border:1px solid rgb(233, 14, 14);
 }
+img {
+    box-shadow: 100px;
+}
