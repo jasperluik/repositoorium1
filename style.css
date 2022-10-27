@@ -1,3 +1,6 @@
+body {
+    background-color: orange;
+}
 h1 {
     font-family: "Comic Sans", comic, sans-serif;
     color: blue;
@@ -5,4 +8,7 @@ h1 {
 p {
     font-family: "Comic Sans", comic, sans-serif;
     color: lightblue;
+}
+table, th, td {
+    border:1px solid rgb(233, 14, 14);
 }
