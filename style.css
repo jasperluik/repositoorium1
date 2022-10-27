@@ -2,11 +2,11 @@ body {
     background-color: orange;
 }
 h1 {
-    font-family: "Comic Sans", comic, sans-serif;
     color: blue;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 p {
-    font-family: "Comic Sans", comic, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     color: lightblue;
 }
 table, th, td {
